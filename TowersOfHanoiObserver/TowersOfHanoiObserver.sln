@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoiObserver.Library", "TowersOfHanoiObserver.Library\TowersOfHanoiObserver.Library.csproj", "{3DA94CB3-4746-4E17-8DCA-8628CAA9DA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoiObserver.Tests", "TowersOfHanoiObserver.Tests\TowersOfHanoiObserver.Tests.csproj", "{E9B9005F-0785-4BD0-AE43-754E480133C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoiObserver.ConsoleApp", "TowersOfHanoiObserver.ConsoleApp\TowersOfHanoiObserver.ConsoleApp.csproj", "{7E57F98C-D834-4E59-8D02-503A7ACA64CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA94CB3-4746-4E17-8DCA-8628CAA9DA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA94CB3-4746-4E17-8DCA-8628CAA9DA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA94CB3-4746-4E17-8DCA-8628CAA9DA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA94CB3-4746-4E17-8DCA-8628CAA9DA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B9005F-0785-4BD0-AE43-754E480133C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B9005F-0785-4BD0-AE43-754E480133C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B9005F-0785-4BD0-AE43-754E480133C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B9005F-0785-4BD0-AE43-754E480133C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E57F98C-D834-4E59-8D02-503A7ACA64CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E57F98C-D834-4E59-8D02-503A7ACA64CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E57F98C-D834-4E59-8D02-503A7ACA64CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E57F98C-D834-4E59-8D02-503A7ACA64CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89AB838A-0C3E-426A-AE0B-33C01E339C1B}
+	EndGlobalSection
+EndGlobal
